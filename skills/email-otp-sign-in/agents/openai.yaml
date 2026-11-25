@@ -1,0 +1,4 @@
+interface:
+  display_name: "Email OTP Sign-in"
+  short_description: "Implement passwordless email codes and session controls"
+  default_prompt: "Use $email-otp-sign-in to implement passwordless email sign-in with this project’s existing auth and mail providers."
